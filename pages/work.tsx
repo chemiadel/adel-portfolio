@@ -2,9 +2,9 @@ import Head from 'next/head'
 import {NextPage} from 'next'
 
 const Home: NextPage = () => {
-  return ( <div className="flex flex-row ">
+  return ( <div className="flex flex-row md:m-8">
         <title>Work</title>
-          <div className="relative  md:p-8">
+          <div className="relative  md:m-8">
   <div
     className="border-r-2 border-gray-200 border-dotted absolute h-full top-0 z-0 left"
     style={{ left: 7 }}

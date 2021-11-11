@@ -1,4 +1,3 @@
-import Head from 'next/head'
 import {NextPage} from 'next'
 import Link from 'next/link'
 
