@@ -1,7 +1,7 @@
 import {NextPage} from 'next'
 import Link from 'next/link'
 
-const Home: NextPage = () => {
+const Home: NextPage  = () => {
   return ( <div className="space-y-12 mx-auto max-w-2xl">
         <title>Blog</title>
       {blogs.reverse().map(item=><div className="flex-grow">
