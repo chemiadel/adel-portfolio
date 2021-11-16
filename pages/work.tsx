@@ -61,7 +61,7 @@ const Home: NextPage = () => {
       <div className="flex items-center mb-1">
         <div className="bg-indigo-600 rounded-full h-4 w-4 border-gray-200 border-2 z-10"></div>
         <div className="flex-1 ml-4 font-medium">
-          Jan 2017 - <span className="text-green-500">Currently</span> / <strong>Fiverr.com/chemiadel </strong></div>
+          Jan 2017 - <span className="text-green-500">Currently</span> / <strong>Fiverr.com/adelchemi </strong></div>
       </div>
       <div className="ml-12">
         <strong className="text-gray-600">Web developer & data analytics</strong><br /> 
