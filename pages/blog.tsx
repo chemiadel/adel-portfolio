@@ -5,10 +5,10 @@ const Home: NextPage  = () => {
   return ( <div className="space-y-12 mx-auto max-w-2xl">
         <title>Blog</title>
       {blogs.reverse().map(item=><div className="flex-grow">
-          <Link href={item.url}>
-            <a className="text-2xl font-bold"> {item.title} </a>
+          <Link href={item.url} passHref>
+            <a className="text-lg lg:text-2xl font-bold"> {item.title} </a>
           </Link>
-          <div className="font-semibold text-gray-500">
+          <div className="text-sm font-semibold text-gray-500">
           {item.date}
           </div>
           </div>)}

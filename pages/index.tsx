@@ -6,7 +6,7 @@ const Home: NextPage = () => {
         <title>About</title>
           <div className="flex-grow">
             <div className="text-5xl font-bold"> Adel Chemi </div>
-            <div className="text-lg font-semibold max-w-xl space-y-4 py-4 tracking-wide leading-relaxed"> 
+            <div className="text-md font-semibold max-w-xl space-y-4 py-4 tracking-wide leading-relaxed"> 
               <p>
                 Hi, I'm full-stack JavaScript/TypeScript web developer. <br/>
               </p>
