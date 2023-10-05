@@ -1,0 +1,70 @@
+{
+  "Elasnam Real Estate": {
+    "Website": "https://www.elasnam.com/en",
+    "screenshot": "blob:https://vercel.com/564b5ebd-b39d-406e-91e5-61253c8fb4c5",
+    "technologies": [
+      "Tyepscript",
+      "NodeJS",
+      "NextJS",
+      "Firebase",
+      "GraphQl",
+      "POSTGRES"
+    ],
+    "Description": "Elasnam Real Estate is a premier online platform for real estate services. Whether you're buying, selling, or renting properties, they offer a wide range of listings and resources to help you find the perfect property or investment opportunity."
+  },
+  "Silmart AI Art Generator": {
+    "Website": "https://slimart.vercel.app/ or https://www.silmart.hu",
+    "screenshot": "blob:https://vercel.com/6e85333b-31fc-42f8-94a9-f8f9cf452a31",
+    "technologies": ["Typescript", "NextJS", "GPT", "Firebase", "Stripe"],
+    "Description": "Silmart AI Art Generator is an innovative platform that harnesses artificial intelligence to create unique and mesmerizing pieces of art. Explore the intersection of technology and creativity as you generate AI-powered art that's sure to inspire and captivate."
+  },
+  "ATH SOFTWARE": {
+    "Website": "https://www.sarscape.ae/",
+    "screenshot": "blob:https://vercel.com/a2da102e-9403-4bca-98ed-670b5330724a",
+    "technologies": ["NextJS", "TailwindCSS"],
+    "Description": "Landing page for software agency"
+  },
+  "VIP Group Logistics": {
+    "Website": "https://www.vipgroupfz.com/",
+    "screenshot": "",
+    "technologies": ["NextJS", "TailwindCSS"],
+    "Description": "VIP Group Logistics is a leading logistics and supply chain management company dedicated to providing top-tier solutions for businesses worldwide. With a commitment to efficiency and reliability, they optimize the movement of goods and services across the globe."
+  },
+  "Shams Al Ruwais Landscaping": {
+    "Website": "https://www.sarscape.ae/",
+    "screenshot": "",
+    "technologies": ["NextJS", "TailwindCSS"],
+    "Description": "Shams Al Ruwais Landscaping is a landscaping and horticulture expert based in the UAE. Their website showcases their stunning portfolio of landscape design and maintenance projects, highlighting their dedication to creating beautiful outdoor spaces."
+  },
+  "Gamefib Blogging Platform": {
+    "Website": "https://gamefib.com",
+    "screenshot": "blob:https://vercel.com/61019f12-0ef0-4cf2-84c3-2810d542b07d",
+    "technologies": [
+      "Tyepscript",
+      "NodeJS",
+      "NextJS",
+      "Firebase",
+      "GraphQl",
+      "POSTGRES"
+    ],
+    "Description": "Gamefib is a dynamic blogging platform tailored for gamers and gaming enthusiasts. It provides a space for gamers to share their experiences, insights, and reviews of video games, helping to build a vibrant gaming community."
+  },
+  "Travel Agency Landing Page": {
+    "Website": "https://travelbeds-dev.vercel.app/",
+    "screenshot": "blob:https://vercel.com/c0b26238-bcc9-42bf-a1f2-f766144c6342",
+    "technologies": ["Tyepscript", "NextJS", "GraphQl"],
+    "Description": "The Travel Agency Landing Page offers a sneak peek into a world of travel adventures. It serves as a gateway to explore exciting destinations, discover travel packages, and plan memorable journeys with a trusted travel agency."
+  },
+  "Real Estate Agency Custom Template": {
+    "Website": "https://real-estate-agency-eight.vercel.app/",
+    "screenshot": "blob:https://vercel.com/e1343d04-846c-449b-a852-3d27b6dd7e63",
+    "technologies": ["NextJS", "TailwindCSS"],
+    "Description": "The Real Estate Agency Custom Template is a versatile and customizable web template designed specifically for real estate agencies. It provides an attractive and functional online presence for agencies to showcase their property listings and services."
+  },
+  "Mining Hardware Estimates Calculator": {
+    "Website": "https://mining-hardware-calculator.vercel.app/",
+    "screenshot": "blob:https://vercel.com/b5925513-32d9-49d2-ae5d-6ae9715da445",
+    "technologies": ["ReaqtJS", "TailwindCSS"],
+    "Description": "The Mining Hardware Estimates Calculator is a handy tool for cryptocurrency miners. It allows miners to estimate their potential profits and expenses based on various factors such as hardware, electricity costs, and mining difficulty, helping them make informed decisions in the crypto mining industry."
+  }
+}
